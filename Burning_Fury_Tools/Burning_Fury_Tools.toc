@@ -1,0 +1,8 @@
+## Interface: 100100
+## Title: Burning Fury Tools
+## Notes: The zueira Never ends.
+## Author: Kazuki (Kazulock-Azralon), Fona (Anofio-Azralon)
+## Version: 10.1.0 (v202305070600)
+
+died_alone.lua
+raid_wipe.lua
